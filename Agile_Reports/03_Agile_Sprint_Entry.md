@@ -90,3 +90,8 @@ Prepared by: Jay J Gurung
 8.  Summary
 
         The project is transitioning from a basic microphone-to-LED system into an advanced audio-reactive LED platform. The initial sketch was limited to amplitude detection and lacked modularity, frequency analysis, and efficient LED control. Planned upgrades include adopting an ESP32 for enhanced processing and WiFi capability, integrating I2S MEMS microphones for accurate audio input, and utilizing addressable LED strips for flexible visualization. Code improvements will focus on FFT-based frequency band analysis, smoothing algorithms, and optimized LED update routines. Future iterations are designed to map frequency ranges to LED zones, incorporate portable Li-ion power solutions, and enable WiFi-based remote control. The next steps involve testing the INMP441 microphone, implementing FFT, refining LED responsiveness, evaluating power consumption, and preparing for remote connectivity features.
+
+9. Disclosures:
+    -   Reaserch Assisted by ChatGpt 5: Agent Mode
+    -   Report Summary and Compilation Assisted by Chatgpt.
+
