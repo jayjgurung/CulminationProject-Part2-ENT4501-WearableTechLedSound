@@ -1,8 +1,8 @@
 Agile Sprint Log (Iteration Report)
 
 Project Title: WearableTech-AV-JayG
-Sprint #: 4
-Date Range: Sept 13 – Sept 17 (Week 3 – 4 Research & Build Progress)
+Sprint #: 2
+Date Range: Sept 13 – Sept 17 (Week 4 – 7 Research & Build Progress)
 Prepared by: Jay J Gurung
 
 ⸻
