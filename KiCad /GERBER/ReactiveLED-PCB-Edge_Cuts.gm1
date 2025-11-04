@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2025-11-03T17:15:35-05:00*%
+%TF.ProjectId,ReactiveLED-PCB,52656163-7469-4766-954c-45442d504342,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2025-11-03 17:15:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X72500000Y-42000000D02*
+X187000000Y-42000000D01*
+X187000000Y-108500000D01*
+X72500000Y-108500000D01*
+X72500000Y-42000000D01*
+M02*
