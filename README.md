@@ -48,11 +48,10 @@ This project aims to create an elegant, portable, and customizable audio-reactiv
 
 ⸻
 
-📁 Repository Structure
-
+## 📁 Repository Structure
 CULMINATIONPROJECT-PART2-ENT4501-WEARABLETECHLEDSOUND/
 │
-├── Agile_Reports/
+├── **Agile_Reports/**
 │   ├── 01_Agile_Sprint_Entry.md
 │   ├── 02_Agile_Sprint_Entry.md
 │   ├── 03_Agile_Sprint_Entry.md
@@ -60,28 +59,29 @@ CULMINATIONPROJECT-PART2-ENT4501-WEARABLETECHLEDSOUND/
 │   ├── 05.1_Agile_Sprint_Entry.md
 │   └── 05.2_Agile_Sprint_Entry.md
 │
-├── Docs/
+├── **Docs/**
 │   ├── Budget Report/
 │   ├── KiCad/
 │   ├── Panel Feedback/
 │   ├── Reference/
 │   └── Timeline/
 │
-├── Iteration_Plans/
+├── **Iteration_Plans/**
 │   └── IterationPlan-Roadmap.md
 │
-├── Presentations/
+├── **Presentations/**
 │   ├── Culmination-Part1-ProgressReport_Presentation_Fall2024.pdf
 │   ├── Jury#1 Presentation links -JayGurung-fall2025.md
 │   ├── Presentation_#2_JayGurung.pptx
 │   └── Presentation-w-video-link.md
 │
-├── src/
+├── **src/**
 │   ├── Arduino IDE/
 │   └── KiCad/
 │
 ├── .gitignore
 └── README.md
+
 ⸻
 
 📊 System Workflow
