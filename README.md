@@ -48,7 +48,8 @@ This project aims to create an elegant, portable, and customizable audio-reactiv
 
 ⸻
 
-## 📁 Repository Structure
+📁 Repository Structure
+```text
 CULMINATIONPROJECT-PART2-ENT4501-WEARABLETECHLEDSOUND/
 │
 ├── **Agile_Reports/**
@@ -81,6 +82,7 @@ CULMINATIONPROJECT-PART2-ENT4501-WEARABLETECHLEDSOUND/
 │
 ├── .gitignore
 └── README.md
+```
 
 ⸻
 
