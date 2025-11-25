@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+LED_Strip1,Conn_01x03,FanPinHeader_1x03_P2.54mm_Vertical,147.500000,-98.000000,90.000000,bottom
+Mic1,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,171.420000,-45.000000,-90.000000,bottom
+Battery1,Conn_01x02,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,178.000000,-95.500000,0.000000,top
+J1,Conn_01x03,PinSocket_1x03_P2.54mm_Vertical,185.000000,-53.420000,0.000000,top
+Pot1,Knob_1,Potentiometer_Alps_RK163_Single_Horizontal,155.000000,-51.500000,-90.000000,top
+Pot2,Knob_2,Potentiometer_Alps_RK163_Single_Horizontal,133.000000,-51.500000,-90.000000,top
+Pot3,Knob_3,Potentiometer_Alps_RK163_Single_Horizontal,110.500000,-51.000000,-90.000000,top
+Pot4,Knob_4,Potentiometer_Alps_RK163_Single_Horizontal,87.500000,-50.970000,-90.000000,top
+R1,330ohm,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,132.190000,-96.500000,0.000000,top
+U1,ESP32-DevKitC,ESP32-DevKitC,120.403440,-72.800000,-90.000000,top
