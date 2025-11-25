@@ -47,7 +47,9 @@ This project aims to create an elegant, portable, and customizable audio-reactiv
 	•	ESP-IDF I2S standard driver (new API)
 
 ⸻
+
 📁 Repository Structure
+
 CULMINATIONPROJECT-PART2-ENT4501-WEARABLETECHLEDSOUND/
 │
 ├── Agile_Reports/
